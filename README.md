@@ -1,4 +1,1 @@
-Meu primeiro sistema no GIT
-Alteração feita no MASTER
-Novo registro
-Outro registro
+Meu primeiro sistema no GIT (alterado e actualizado !)
